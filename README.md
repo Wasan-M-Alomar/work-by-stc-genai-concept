@@ -9,9 +9,13 @@
 ![GenAI](https://img.shields.io/badge/Generative%20AI-Meeting%20Intelligence-E6007E?style=flat-square)
 ![Challenge](https://img.shields.io/badge/stc%20Challenge-Misk%20Skills-1F3A5F?style=flat-square)
 
-💡 **Product concept** developed for the **stc Challenge** with **Misk Skills (Mohammed Bin Salman Foundation)**
+👥 **Team project** · 💡 **Product concept** developed for the **stc Challenge** with **Misk Skills (Mohammed Bin Salman Foundation)**
 
-💡 **فكرة منتج تقني** قُدّمت في **تحدي stc** ضمن برنامج **مهارات مسك (مؤسسة محمد بن سلمان)**
+🎤 **Presented to a panel of stc leaders**
+
+👥 **مشروع جماعي** · 💡 **فكرة منتج تقني** قُدّمت في **تحدي stc** ضمن برنامج **مهارات مسك (مؤسسة محمد بن سلمان)**
+
+🎤 **عُرضت أمام لجنة من قياديي stc**
 
 [English](#english) · [العربية](#arabic)
 
@@ -28,6 +32,8 @@
 The idea came from our own daily routine: back-to-back online meetings, calls and lectures, with important decisions and tasks getting lost along the way.
 
 **work by stc** is a proposed telco-backed workplace platform that combines voice and video calls, private and group chats, and task management in one place, with a **generative AI assistant** built into every meeting.
+
+Our team pitched the concept, including the product idea, UX, brand identity and go-to-market plan, **to a panel of stc leaders**.
 
 ## Key Capabilities
 
@@ -85,6 +91,8 @@ The logo was designed around the letter **W**: the first stroke represents the w
 انطلقت الفكرة من واقعنا اليومي: اجتماعات ومكالمات ومحاضرات عن بُعد متتالية، تضيع بينها القرارات والمهام المهمة.
 
 **work by stc** منصة عمل مقترحة مدعومة من شركة اتصالات، تجمع المكالمات الصوتية والمرئية، والمحادثات الخاصة والجماعية، وإدارة المهام في مكان واحد، مع **مساعد ذكي مبني على الذكاء الاصطناعي التوليدي** داخل كل اجتماع.
+
+وقدّم فريقنا الفكرة، بما فيها تصميم المنتج والهوية البصرية والخطة التسويقية، **أمام لجنة من قياديي stc**.
 
 ## أبرز الخصائص
 
